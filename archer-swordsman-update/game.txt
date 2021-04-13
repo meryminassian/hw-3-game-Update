@@ -1,0 +1,17 @@
+Swordsman's remaining life count: 34.9, hit strength: 10.0
+Archer's remaining life count: 53.0, hit strength: 6.0
+Swordsman's remaining life count: 29.799999999999997, hit strength: 10.0
+Archer's remaining life count: 46.0, hit strength: 6.0
+Swordsman's remaining life count: 24.699999999999996, hit strength: 10.0
+Archer's remaining life count: 39.0, hit strength: 6.0
+Swordsman's remaining life count: 19.599999999999994, hit strength: 10.0
+Archer's remaining life count: 32.0, hit strength: 6.0
+Swordsman's remaining life count: 14.499999999999995, hit strength: 10.0
+Archer's remaining life count: 25.0, hit strength: 6.0
+Swordsman's remaining life count: 9.399999999999995, hit strength: 10.0
+Archer's remaining life count: 18.0, hit strength: 6.0
+Swordsman's remaining life count: 4.299999999999995, hit strength: 10.0
+Archer's remaining life count: 11.0, hit strength: 6.0
+Swordsman's remaining life count: 0.0, hit strength: 10.0
+archer won
+Archer's remaining life count: 4.0, hit strength: 6.0
